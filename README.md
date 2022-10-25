@@ -1,2 +1,4 @@
 # todo
- Site de lista de tarefas em React
+ Site de lista de tarefas.
+
+ Estou aprendendo React.js 
